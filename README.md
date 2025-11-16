@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/roshnipr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/roshnipr/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/roshnipr/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/roshnipr/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/roshnipr/Leetcode/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/roshnipr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3817-maximum-containers-on-a-ship](https://github.com/roshnipr/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/roshnipr/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/roshnipr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/roshnipr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
