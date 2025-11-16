@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/roshnipr/Leetcode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/roshnipr/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/roshnipr/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/roshnipr/Leetcode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/roshnipr/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
