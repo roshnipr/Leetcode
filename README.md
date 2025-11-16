@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/roshnipr/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/roshnipr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roshnipr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/roshnipr/Leetcode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 ## Matrix
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshnipr/Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/roshnipr/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
