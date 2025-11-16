@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/roshnipr/Leetcode/tree/master/0125-valid-palindrome) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/roshnipr/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/roshnipr/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
