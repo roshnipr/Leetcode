@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3336-water-bottles-ii](https://github.com/roshnipr/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3817-maximum-containers-on-a-ship](https://github.com/roshnipr/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/roshnipr/Leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/roshnipr/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
