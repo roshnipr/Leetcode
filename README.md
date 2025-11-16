@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/roshnipr/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3817-maximum-containers-on-a-ship](https://github.com/roshnipr/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/roshnipr/Leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -239,12 +241,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/roshnipr/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/roshnipr/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
