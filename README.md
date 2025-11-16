@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/roshnipr/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/roshnipr/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## String
 |  |
 | ------- |
