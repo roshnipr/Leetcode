@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
+| [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/roshnipr/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/roshnipr/Leetcode/tree/master/1642-water-bottles) |
@@ -111,8 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roshnipr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/roshnipr/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
