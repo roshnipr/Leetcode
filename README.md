@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/roshnipr/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/roshnipr/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/roshnipr/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3336-water-bottles-ii](https://github.com/roshnipr/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3817-maximum-containers-on-a-ship](https://github.com/roshnipr/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/roshnipr/Leetcode/tree/master/3830-find-closest-person) |
