@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/roshnipr/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/roshnipr/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshnipr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/roshnipr/Leetcode/tree/master/0229-majority-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/roshnipr/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/roshnipr/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/roshnipr/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/roshnipr/Leetcode/tree/master/0292-nim-game) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/roshnipr/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/roshnipr/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Divide and Conquer
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/roshnipr/Leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/roshnipr/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
