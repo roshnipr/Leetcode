@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/roshnipr/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/roshnipr/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/roshnipr/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/roshnipr/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshnipr/Leetcode/tree/master/0020-valid-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
