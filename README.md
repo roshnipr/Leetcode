@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/roshnipr/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1580-shuffle-the-array](https://github.com/roshnipr/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
