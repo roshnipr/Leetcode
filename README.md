@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/roshnipr/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/roshnipr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
