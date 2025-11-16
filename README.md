@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/roshnipr/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/roshnipr/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
