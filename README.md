@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/roshnipr/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/roshnipr/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roshnipr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/roshnipr/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/roshnipr/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1791-richest-customer-wealth](https://github.com/roshnipr/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Brainteaser
 |  |
 | ------- |
