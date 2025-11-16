@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshnipr/Leetcode/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshnipr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/roshnipr/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/roshnipr/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roshnipr/Leetcode/tree/master/0283-move-zeroes) |
