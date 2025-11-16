@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/roshnipr/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1580-shuffle-the-array](https://github.com/roshnipr/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
