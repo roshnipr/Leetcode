@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/roshnipr/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3817-maximum-containers-on-a-ship](https://github.com/roshnipr/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
 | ------- |
