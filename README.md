@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/roshnipr/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/roshnipr/Leetcode/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/roshnipr/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/roshnipr/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/roshnipr/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/roshnipr/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshnipr/Leetcode/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/roshnipr/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
