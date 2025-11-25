@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/roshnipr/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/roshnipr/Leetcode/tree/master/1651-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/roshnipr/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/roshnipr/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/roshnipr/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/roshnipr/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/roshnipr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/roshnipr/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
