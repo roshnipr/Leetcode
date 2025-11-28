@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/roshnipr/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/roshnipr/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/roshnipr/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/roshnipr/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/roshnipr/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/roshnipr/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/roshnipr/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/roshnipr/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/roshnipr/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/roshnipr/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/roshnipr/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/roshnipr/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/roshnipr/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/roshnipr/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Brainteaser
