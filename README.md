@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/roshnipr/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/roshnipr/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/roshnipr/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/roshnipr/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/roshnipr/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/roshnipr/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/roshnipr/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshnipr/Leetcode/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/roshnipr/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/roshnipr/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
