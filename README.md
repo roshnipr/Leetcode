@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/roshnipr/Leetcode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/roshnipr/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/roshnipr/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/roshnipr/Leetcode/tree/master/1651-shuffle-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/roshnipr/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/roshnipr/Leetcode/tree/master/1894-merge-strings-alternately) |
