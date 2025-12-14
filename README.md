@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/roshnipr/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/roshnipr/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/roshnipr/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/roshnipr/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2238-a-number-after-a-double-reversal](https://github.com/roshnipr/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/roshnipr/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/roshnipr/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/roshnipr/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/roshnipr/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/roshnipr/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/roshnipr/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/roshnipr/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/roshnipr/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/roshnipr/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
 |  |
 | ------- |
