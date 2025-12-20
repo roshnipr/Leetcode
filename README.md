@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/roshnipr/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/roshnipr/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/roshnipr/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
