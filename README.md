@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/roshnipr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/roshnipr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/roshnipr/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshnipr/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/roshnipr/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
+| [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/roshnipr/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/roshnipr/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
