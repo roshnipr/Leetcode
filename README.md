@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/roshnipr/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/roshnipr/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/roshnipr/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/roshnipr/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/roshnipr/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/roshnipr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/roshnipr/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/roshnipr/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/roshnipr/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/roshnipr/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/roshnipr/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/roshnipr/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/roshnipr/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/roshnipr/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/roshnipr/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/roshnipr/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/roshnipr/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/roshnipr/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/roshnipr/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/roshnipr/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/roshnipr/Leetcode/tree/master/0657-robot-return-to-origin) |
