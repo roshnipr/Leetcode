@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/roshnipr/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/roshnipr/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/roshnipr/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/roshnipr/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/roshnipr/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
