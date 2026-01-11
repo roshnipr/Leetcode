@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/roshnipr/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/roshnipr/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2048-build-array-from-permutation](https://github.com/roshnipr/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/roshnipr/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/roshnipr/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/roshnipr/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/roshnipr/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/roshnipr/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/roshnipr/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/roshnipr/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/roshnipr/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/roshnipr/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/roshnipr/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
