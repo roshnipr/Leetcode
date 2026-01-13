@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/roshnipr/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/roshnipr/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/roshnipr/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/roshnipr/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/roshnipr/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
