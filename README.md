@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/roshnipr/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2857-total-distance-traveled](https://github.com/roshnipr/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/roshnipr/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/roshnipr/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3336-water-bottles-ii](https://github.com/roshnipr/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/roshnipr/Leetcode/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/roshnipr/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3280-convert-date-to-binary](https://github.com/roshnipr/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
