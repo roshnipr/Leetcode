@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/roshnipr/Leetcode/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0877-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/roshnipr/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roshnipr/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/roshnipr/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/roshnipr/Leetcode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/roshnipr/Leetcode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/roshnipr/Leetcode/tree/master/1070-convert-to-base-2) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshnipr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/roshnipr/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/roshnipr/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/roshnipr/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
