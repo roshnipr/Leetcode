@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/roshnipr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/roshnipr/Leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/roshnipr/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshnipr/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/roshnipr/Leetcode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/roshnipr/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/roshnipr/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/roshnipr/Leetcode/tree/master/1046-last-stone-weight) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/roshnipr/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/roshnipr/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roshnipr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/roshnipr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/roshnipr/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/roshnipr/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -524,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/roshnipr/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/roshnipr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
