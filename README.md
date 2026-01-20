@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/roshnipr/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/roshnipr/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2942-find-words-containing-character](https://github.com/roshnipr/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/roshnipr/Leetcode/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/roshnipr/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/roshnipr/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/roshnipr/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/roshnipr/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/roshnipr/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
