@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/roshnipr/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/roshnipr/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roshnipr/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1014-best-sightseeing-pair](https://github.com/roshnipr/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/roshnipr/Leetcode/tree/master/1046-last-stone-weight) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/roshnipr/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshnipr/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/roshnipr/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-best-sightseeing-pair](https://github.com/roshnipr/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/roshnipr/Leetcode/tree/master/1086-divisor-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/roshnipr/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
