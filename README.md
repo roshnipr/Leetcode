@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/roshnipr/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/roshnipr/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/roshnipr/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roshnipr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/roshnipr/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/roshnipr/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/roshnipr/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshnipr/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/roshnipr/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/roshnipr/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/roshnipr/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/roshnipr/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/roshnipr/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roshnipr/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/roshnipr/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/roshnipr/Leetcode/tree/master/1448-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/roshnipr/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
