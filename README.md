@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/roshnipr/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/roshnipr/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/roshnipr/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roshnipr/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/roshnipr/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roshnipr/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/roshnipr/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roshnipr/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/roshnipr/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/roshnipr/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshnipr/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshnipr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/roshnipr/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/roshnipr/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roshnipr/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/roshnipr/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/roshnipr/Leetcode/tree/master/1448-maximum-69-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/roshnipr/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/roshnipr/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/roshnipr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/roshnipr/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/roshnipr/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## String Matching
 |  |
