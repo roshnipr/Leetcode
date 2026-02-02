@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/roshnipr/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/roshnipr/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/roshnipr/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/roshnipr/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/roshnipr/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/roshnipr/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3146-permutation-difference-between-two-strings](https://github.com/roshnipr/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/roshnipr/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/roshnipr/Leetcode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/roshnipr/Leetcode/tree/master/3462-vowels-game-in-a-string) |
