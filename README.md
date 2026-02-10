@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/roshnipr/Leetcode/tree/master/3637-trionic-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/roshnipr/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/roshnipr/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/roshnipr/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/roshnipr/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/roshnipr/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/roshnipr/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roshnipr/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/roshnipr/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/roshnipr/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshnipr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshnipr/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/roshnipr/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3311-ant-on-the-boundary](https://github.com/roshnipr/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String Matching
 |  |
 | ------- |
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/roshnipr/Leetcode/tree/master/0706-design-hashmap) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
