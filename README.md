@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/roshnipr/Leetcode/tree/master/0909-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshnipr/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0942-di-string-match](https://github.com/roshnipr/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/roshnipr/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roshnipr/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1014-best-sightseeing-pair](https://github.com/roshnipr/Leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/roshnipr/Leetcode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/roshnipr/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/roshnipr/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/roshnipr/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/roshnipr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/roshnipr/Leetcode/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/roshnipr/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/roshnipr/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/roshnipr/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/roshnipr/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/roshnipr/Leetcode/tree/master/0942-di-string-match) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/roshnipr/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/roshnipr/Leetcode/tree/master/1448-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
