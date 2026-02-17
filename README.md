@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/roshnipr/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/roshnipr/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/roshnipr/Leetcode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/roshnipr/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/roshnipr/Leetcode/tree/master/0645-set-mismatch) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/roshnipr/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -622,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/roshnipr/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/roshnipr/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
