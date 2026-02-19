@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/roshnipr/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/roshnipr/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/roshnipr/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/roshnipr/Leetcode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/roshnipr/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/roshnipr/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/roshnipr/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/roshnipr/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/roshnipr/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0925-long-pressed-name](https://github.com/roshnipr/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/roshnipr/Leetcode/tree/master/0942-di-string-match) |
