@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/roshnipr/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/roshnipr/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/roshnipr/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/roshnipr/Leetcode/tree/master/0868-binary-gap) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/roshnipr/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/roshnipr/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
