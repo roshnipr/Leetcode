@@ -1,7 +1,6 @@
 class Solution {
     public long splitArray(int[] nums) {
         int n = nums.length;
-
         boolean[] prime = new boolean[n];
         if (n > 2) {
             for (int i = 2; i < n; i++) prime[i] = true;
@@ -14,9 +13,7 @@ class Solution {
                 }
             }
         }
-
         long sumA = 0, sumB = 0;
-
         for (int i = 0; i < n; i++) {
             if (i >= 2 && prime[i]) {
                 sumA += nums[i];
@@ -24,7 +21,6 @@ class Solution {
                 sumB += nums[i];
             }
         }
-
         return Math.abs(sumA - sumB);
     }
 }
