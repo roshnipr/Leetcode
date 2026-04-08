@@ -1,16 +1,15 @@
 class Solution {
     public int[] numberGame(int[] nums) {
         Arrays.sort(nums);
-        int n=nums.length;
-        int[] arr=new int[n];
+        int[] res=new int[nums.length];
         int j=0;
         for(int i=0;i<nums.length;i+=2) {
             int ap=nums[i];
             int bp=nums[i+1];
 
-            arr[j++]=bp;
-            arr[j++]=ap;
+            res[j++]=bp;
+            res[j++]=ap;
         }
-        return arr;
+        return res;
     }
 }
