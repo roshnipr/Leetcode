@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/roshnipr/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/roshnipr/Leetcode/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/roshnipr/Leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/roshnipr/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roshnipr/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/roshnipr/Leetcode/tree/master/0792-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/roshnipr/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/roshnipr/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/roshnipr/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshnipr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/roshnipr/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/roshnipr/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/roshnipr/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshnipr/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
